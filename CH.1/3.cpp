@@ -28,7 +28,7 @@ void decimalToBinary(int num) {
 }
 
 int main() {
-    int num=11;
+    int num=11;//U can edit this
     
     decimalToBinary(num);
     return 0;
