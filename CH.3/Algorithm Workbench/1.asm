@@ -1,3 +1,5 @@
+;1. Define four symbolic constants that represent integer 25 in decimal, binary, octal,
+;and hexadecimal formats
 .model flat
 .stack 100H
 .386
