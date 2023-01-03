@@ -1,4 +1,4 @@
-/* 6. Given the number 456789ABh, list out its byte values in little-endian order.
+@ 6. Given the number 456789ABh, list out its byte values in little-endian order.
 
 from internet i found the answer
 The given 32-bit value is 456789ab in hexadecimal notation.
@@ -14,5 +14,5 @@ ab
 45
 
 Answer: 
-The byte values are ab, 89, 67, 45 */
-; hello world
+The byte values are ab, 89, 67, 45 @
+
