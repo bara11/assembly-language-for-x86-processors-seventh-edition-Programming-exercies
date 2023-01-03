@@ -1,5 +1,5 @@
 
-COMMENT@ 
+COMMENT @ 
 6. Given the number 456789ABh, list out its byte values in little-endian order.
 
 from internet i found the answer
@@ -16,7 +16,8 @@ ab
 45
 
 Answer: 
-The byte values are ab, 89, 67, 45 @
+The byte values are ab, 89, 67, 45 
+@
 
 ;source: https://brainly.com/question/6345327
 ;--------------------------------------------------------------
