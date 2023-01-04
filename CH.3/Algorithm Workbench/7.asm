@@ -2,7 +2,7 @@
 .model flat,stdcall
 .stack 4096
 .data
-value1 dword 120 dup(00)
+value1 dword 120 dup(0)
 .code
 main:
 
